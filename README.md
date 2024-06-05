@@ -41,7 +41,7 @@ This project implements a smart greenhouse system using Python, DHT22 sensors, a
 
 2. **Run the script**:
     ```sh
-    python smart_greenhouse.py
+    python SMART_Greenhouse_Project.py
     ```
 
 ## Code Overview
