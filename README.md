@@ -87,6 +87,11 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Author
+
+Viacheslav Vorotilin
+
+
 ## Acknowledgements
 
 - Adafruit for the DHT22 library.
