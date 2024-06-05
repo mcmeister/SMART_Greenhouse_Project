@@ -21,7 +21,7 @@ This project implements a smart greenhouse system using Python, DHT22 sensors, a
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/mcmeister/smart-greenhouse-project.git
-    cd smart-greenhouse
+    cd smart-greenhouse-project
     ```
 
 2. **Install dependencies**:
